@@ -60,8 +60,8 @@ class TTSFXService(Protocol):
 
 ## Importing in your own projects
 ```python
-from auto_foley import run_auto_foley
-output_path = add_audio_to_video("input_video.mp4")
+from auto_foley import run_auto_foley as af
+output_path = af.add_audio_to_video("input_video.mp4")
 ```
 Or with the optional extra parameters.
 ```python
