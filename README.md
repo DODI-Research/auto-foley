@@ -1,7 +1,6 @@
 <h1 style='text-align: center; margin-bottom: 1rem'> Auto-Foley </h1>
 
 <div style="display: flex; flex-direction: row; justify-content: center">
-<img style="display: block; padding-right: 5px; height: 20px;" alt="Static Badge" src="https://img.shields.io/pypi/v/gradio_vistimeline">
 <a href="https://github.com/DODI-Research/auto-foley" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/github-white?logo=github&logoColor=black"></a>
 <a href="https://huggingface.co/spaces/DODI-Research/auto-foley-editor" target="_blank"><img alt="Open in Spaces" src="https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-sm-dark.svg"></a>
 </div>
